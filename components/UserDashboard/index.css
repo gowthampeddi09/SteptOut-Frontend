@@ -1,0 +1,38 @@
+.user-dashboard {
+    margin: 20px;
+  }
+  
+  .user-dashboard h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .user-dashboard table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .user-dashboard th, .user-dashboard td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .user-dashboard th {
+    background-color: #f2f2f2;
+  }
+  
+  .user-dashboard button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .user-dashboard button:hover {
+    background-color: #0056b3;
+  }
+  
+  
